@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=HTML5;%20CSS3;%20JavaScript;&center=true&size=22)](https://git.io/typing-svg)
 
-Sou desenvolvedor front-end apaixonado por criar interfaces que encantam os usuários. Aqui você confere um pouco das tecnologias que utilizo e a porcentagem de uso delas nos meus repositórios.
+Sou desenvolvedor front-end apaixonado por criar interfaces que encantam os usuários. Abaixo você confere um pouco das minhas estatísticas e das tecnologias que utilizo.
 
 ## Tecnologias que Utilizo
 
@@ -10,9 +10,13 @@ Sou desenvolvedor front-end apaixonado por criar interfaces que encantam os usu�
 - ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## Linguagens Mais Utilizadas
+## Minhas Estatísticas no GitHub
+
+[![GenissonBalduino's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GenissonBalduino&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GenissonBalduino&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ## Projetos em Destaque
 
